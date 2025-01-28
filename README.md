@@ -1,8 +1,8 @@
 # Fullstack Developer
 
 #### Technical Skills: 
-•	Languages : C(advanced), C++( advanced), Node.js/express.js, TypeScrpt(advanced),Java(advanced)
-• Coursework:Data Design, Algorithms, Optimization mathematicsLinear Programming , Object-oriented design, Machine learning, Data analysis, Implement API. Web development, Computer Organization, Assembly language.
+- Languages : C(advanced), C++( advanced), Node.js/express.js, TypeScrpt(advanced),Java(advanced)
+- Coursework:Data Design, Algorithms, Optimization mathematicsLinear Programming , Object-oriented design, Machine learning, Data analysis, Implement API. Web development, Computer Organization, Assembly language.
 
 ### Education
 B.S.| Computer Science | University of Rochester (_2022_ - _2026_)
@@ -22,16 +22,16 @@ B.S.| Computer Science | University of Rochester (_2022_ - _2026_)
 
 ### Project
 ### C-compiler
-•	Designed and implemented a basic compiler for the C programming language, capable of translating high-level C code into low-level assembly/machine code. The project involved the development of key compiler components such as:
-•	Lexical Analyzer: Tokenized the input source code, identifying keywords, identifiers, literals, and operators.
-•	Syntax Analyzer (Parser): Built a context-free grammar and employed parsing techniques(LL) to generate an Abstract Syntax Tree (AST).
-•	Semantic Analyzer: Ensured type checking, scope resolution, and adherence to language semantics.
-•	Code Generator: Translated AST into intermediate representation (IR) and then generated assembly code for a target architecture.
-•	Optimization: Included basic code optimization techniques, such as constant folding, dead code elimination, and loop unrolling, to improve performance.
-•	Technologies: C, ANTLR, Assembly language.
+- Designed and implemented a basic compiler for the C programming language, capable of translating high-level C code into low-level assembly/machine code. The project involved the development of key compiler components such as:
+-	Lexical Analyzer: Tokenized the input source code, identifying keywords, identifiers, literals, and operators.
+-	Syntax Analyzer (Parser): Built a context-free grammar and employed parsing techniques(LL) to generate an Abstract Syntax Tree (AST).
+- Semantic Analyzer: Ensured type checking, scope resolution, and adherence to language semantics.
+-	Code Generator: Translated AST into intermediate representation (IR) and then generated assembly code for a target architecture.
+-	Optimization: Included basic code optimization techniques, such as constant folding, dead code elimination, and loop unrolling, to improve performance.
+-	Technologies: C, ANTLR, Assembly language.
 
 ### A clever todo list App
-•	Designed a productivity application that streamlines task management by prioritizing tasks based on users' self-reported interest and confidence levels .
-•	Implemented the APIs(express.js) for the data store in the NoSQL database(MongoDB)
-•	Used component base library to develop the app.
-•	Language: Typescript, react.js,express.js 
+-	Designed a productivity application that streamlines task management by prioritizing tasks based on users' self-reported interest and confidence levels .
+-	Implemented the APIs(express.js) for the data store in the NoSQL database(MongoDB)
+-	Used component base library to develop the app.
+-	Language: Typescript, react.js,express.js 
